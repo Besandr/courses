@@ -1,4 +1,4 @@
-package com.epam.cources.homework01;
+package com.epam.courses.homework01;
 
 import java.util.Scanner;
 
