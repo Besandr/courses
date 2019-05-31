@@ -1,4 +1,4 @@
-package com.epam.courses.homework01;
+package com.besandr.courses.homework01;
 
 public class EuclidGSD04 {
 
